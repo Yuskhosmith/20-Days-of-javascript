@@ -1,3 +1,22 @@
 # Hi
 
-- [x] Day 1
+- [x] Day 1 - Qupte Generator : [Demo](https://yuskhosmith.github.io/quote-generator/)
+- [x] Day 2 - Infinite Scroll : [Demo](https://yuskhosmith.github.io/infinite-scroll/)
+- [x] Day 3 -Picture in Picture : [Demo](https://yuskhosmith.github.io/picture-in-picture/)
+- [x] Day 4 - Joke Teller : [Demo](https://yuskhosmith.github.io/joke-teller/)
+- [x] Day 5 - Light-Dark Mode : [Demo](https://yuskhosmith.github.io/light-dark-mode/)
+- [x] Day 6 - Animated Template : [Demo](https://yuskhosmith.github.io/animated-template)
+- [x] Day 7 - Animated Navigation : [Demo](https://yuskhosmith.github.io/animated-navigation/)
+- [x] Day 8 - Music Player : [Demo](https://yuskhosmith.github.io/music-player/)
+- [x] Day 9 - Custom Countdown : [Demo](https://yuskhosmith.github.io/custom-countdown/)
+- [x] Day 10 - Bookmark App : [Demo](https://yuskhosmith.github.io/bookmark-app/)
+- [x] Day 11 - Video Player : [Demo](https://yuskhosmith.github.io/video-player/)
+- [x] Day 12 - Form Validaton : [Demo](https://yuskhosmith.github.io/form-validation/)
+- [x] Day 13 - Spock-Rock game : [Demo](https://yuskhosmith.github.io/spock-rock-game/)
+- [x] Day 14 - Nasa Api Pictures : [Demo](https://yuskhosmith.github.io/nasa-api-pictures/)
+- [x] Day 15 - Math Sprint Game : [Demo](https://yuskhosmith.github.io/math-sprint-game/)
+- [x] Day 16 - Drag and Drop : [Demo](https://yuskhosmith.github.io/drag-and-drop/)
+- [x] Day 17 - Calculator : [Demo](https://yuskhosmith.github.io/calculator/)
+- [x] Day 18 - Splash Page : [Demo](https://yuskhosmith.github.io/splash-page/)
+- [x] Day 19 - Paint Clone : [Demo](https://yuskhosmith.github.io/paint-clone/)
+- [x] Day 20 - Pong : [Demo](https://yuskhosmith.github.io/pong/)
