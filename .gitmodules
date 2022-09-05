@@ -1,3 +1,24 @@
 [submodule "animated-navigation"] 
   path = animated-navigation 
   url = https://github.com/Yuskhosmith/animated-navigation.git
+[submodule "animated-template"] 
+  path = animated-template 
+  url = https://github.com/Yuskhosmith/animated-template.git
+[submodule "bookmark-app"] 
+  path = bookmark-app 
+  url = https://github.com/Yuskhosmith/bookmark-app.git
+[submodule "calculator"] 
+  path = calculator
+  url = https://github.com/Yuskhosmith/calculator.git
+[submodule "custom-countdown"] 
+  path = custom-countdown 
+  url = https://github.com/Yuskhosmith/custom-countdown.git
+[submodule "drag-and-drop"] 
+  path = drag-and-drop 
+  url = https://github.com/Yuskhosmith/drag-and-drop.git
+[submodule "form-validation"] 
+  path = form-validation 
+  url = https://github.com/Yuskhosmith/form-validation.git
+[submodule "infinite-scroll"] 
+  path = infinite-scroll 
+  url = https://github.com/Yuskhosmith/infinite-scroll.git
