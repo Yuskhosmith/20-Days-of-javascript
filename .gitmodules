@@ -22,3 +22,39 @@
 [submodule "infinite-scroll"] 
   path = infinite-scroll 
   url = https://github.com/Yuskhosmith/infinite-scroll.git
+[submodule "joke-teller"] 
+  path = joke-teller 
+  url = https://github.com/Yuskhosmith/joke-teller.git
+[submodule "light-dark-mode"] 
+  path = light-dark-mode 
+  url = https://github.com/Yuskhosmith/light-dark-mode.git
+[submodule "math-sprint-game"] 
+  path = math-sprint-game 
+  url = https://github.com/Yuskhosmith/math-sprint-game.git
+[submodule "music-player"] 
+  path = music-player 
+  url = https://github.com/Yuskhosmith/music-player.git
+[submodule "nasa-api-pictures"] 
+  path = nasa-api-pictures 
+  url = https://github.com/Yuskhosmith/nasa-api-pictures.git
+[submodule "paint-clone"] 
+  path = paint-clone 
+  url = https://github.com/Yuskhosmith/paint-clone.git
+[submodule "picture-in-picture"] 
+  path = picture-in-picture 
+  url = https://github.com/Yuskhosmith/picture-in-picture.git
+[submodule "pong"] 
+  path = pong 
+  url = https://github.com/Yuskhosmith/pong.git
+[submodule "quote-generator"] 
+  path = quote-generator 
+  url = https://github.com/Yuskhosmith/quote-generator.git
+[submodule "splash-page"] 
+  path = splash-page 
+  url = https://github.com/Yuskhosmith/splash-page.git
+[submodule "spock-rock-game"] 
+  path = spock-rock-game 
+  url = https://github.com/Yuskhosmith/spock-rock-game.git
+[submodule "video-player"] 
+  path = video-player 
+  url = https://github.com/Yuskhosmith/video-player.git
