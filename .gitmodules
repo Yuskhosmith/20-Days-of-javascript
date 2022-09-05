@@ -1,0 +1,3 @@
+[submodule "animated-navigation"] 
+  path = animated-navigation 
+  url = https://github.com/Yuskhosmith/animated-navigation.git
